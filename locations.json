@@ -1,72 +1,142 @@
 [
   {
-    "name": "Central Park Playground",
-    "type": "Playground",
-    "desc": "Large accessible playground with splash pad and picnic area.",
-    "lat": 40.7711,
-    "lng": -73.9742
+    "name": "Brevard Zoo",
+    "type": "Zoo",
+    "desc": "Family-friendly zoo with animal encounters, train rides, splash pad, and Treetop Trek aerial adventures.",
+    "lat": 28.2293,
+    "lng": -80.7083
   },
   {
-    "name": "Golden Gate Park Carousel",
+    "name": "Exploration Tower",
+    "type": "Museum",
+    "desc": "Interactive exhibits, observation decks, and kids activities at Port Canaveral.",
+    "lat": 28.4137,
+    "lng": -80.6185
+  },
+  {
+    "name": "Cocoa Beach Pier",
     "type": "Amusement",
-    "desc": "Historic carousel open daily, fun for all ages.",
-    "lat": 37.7694,
-    "lng": -122.4862
+    "desc": "Historic pier with shops, restaurants, fishing, and beach access. Family fun and ocean views.",
+    "lat": 28.3694,
+    "lng": -80.6061
   },
   {
-    "name": "Millennium Park",
-    "type": "Park",
-    "desc": "Famous park with Cloud Gate, splash fountains, and playground.",
-    "lat": 41.8827,
-    "lng": -87.6233
-  },
-  {
-    "name": "Zilker Park",
-    "type": "Park",
-    "desc": "Huge park, playgrounds, trains, botanical gardens, events.",
-    "lat": 30.2669,
-    "lng": -97.7728
-  },
-  {
-    "name": "Piedmont Park Splash Pad",
-    "type": "Playground",
-    "desc": "Water play, modern playground, picnic tables.",
-    "lat": 33.7851,
-    "lng": -84.3738
-  },
-  {
-    "name": "Discovery Green",
-    "type": "Park",
-    "desc": "Urban green space, playground, seasonal events, art.",
-    "lat": 29.7545,
-    "lng": -95.3598
-  },
-  {
-    "name": "Ann Arbor Hands-On Museum",
-    "type": "Museum",
-    "desc": "Interactive science and play for kids of all ages.",
-    "lat": 42.2814,
-    "lng": -83.7491
-  },
-  {
-    "name": "Orlando Science Center",
-    "type": "Museum",
-    "desc": "Hands-on exhibits, play areas, and live science shows.",
-    "lat": 28.5721,
-    "lng": -81.3681
-  },
-  {
-    "name": "Denver Children's Museum",
-    "type": "Museum",
-    "desc": "Indoor/outdoor play, water, art, STEM, and more.",
-    "lat": 39.7539,
-    "lng": -105.0196
-  },
-  {
-    "name": "Santa Monica Pier",
+    "name": "Andretti Thrill Park",
     "type": "Amusement",
-    "desc": "Rides, arcade, aquarium, beach activities.",
-    "lat": 34.0094,
-    "lng": -118.4973
+    "desc": "Go-karts, mini-golf, arcade, batting cages, and rides for kids of all ages.",
+    "lat": 28.0787,
+    "lng": -80.6295
+  },
+  {
+    "name": "Wickham Park",
+    "type": "Park",
+    "desc": "Large park with playgrounds, walking trails, disc golf, and a dog park.",
+    "lat": 28.1607,
+    "lng": -80.6610
+  },
+  {
+    "name": "Manatee Sanctuary Park",
+    "type": "Park",
+    "desc": "Riverfront park with playground, walking paths, and frequent manatee sightings.",
+    "lat": 28.4004,
+    "lng": -80.6072
+  },
+  {
+    "name": "Ritch Grissom Memorial Wetlands",
+    "type": "Nature",
+    "desc": "Scenic wetlands with wildlife viewing, birdwatching, and walking trails.",
+    "lat": 28.2469,
+    "lng": -80.8101
+  },
+  {
+    "name": "Space View Park",
+    "type": "Park",
+    "desc": "Riverfront park with NASA and space exploration monuments. Good for launches and kids to explore.",
+    "lat": 28.6137,
+    "lng": -80.8078
+  },
+  {
+    "name": "Sand Point Park",
+    "type": "Park",
+    "desc": "Large community park with playgrounds, splash pad, and picnic areas in Titusville.",
+    "lat": 28.6152,
+    "lng": -80.8087
+  },
+  {
+    "name": "Playalinda Beach",
+    "type": "Beach",
+    "desc": "Natural, unspoiled beach with clean sand and great wildlife viewing. Family-friendly (note: some remote areas clothing-optional, but main entrances are family oriented).",
+    "lat": 28.6551,
+    "lng": -80.6386
+  },
+  {
+    "name": "Lori Wilson Park",
+    "type": "Beach Park",
+    "desc": "Oceanfront park with playground, nature trail, picnic pavilions, and beach access.",
+    "lat": 28.3527,
+    "lng": -80.6081
+  },
+  {
+    "name": "Gleason Park",
+    "type": "Park",
+    "desc": "Shaded park with playground, walking path around a lake, and a public pool (fee).",
+    "lat": 28.1567,
+    "lng": -80.6020
+  },
+  {
+    "name": "The Children's Hunger Project Kid's Space Park",
+    "type": "Playground",
+    "desc": "Unique space-themed playground in Cocoa for kids of all ages.",
+    "lat": 28.3879,
+    "lng": -80.7568
+  },
+  {
+    "name": "Eastern Florida State College Planetarium & Observatory",
+    "type": "Planetarium",
+    "desc": "Public astronomy shows and hands-on science activities for children (check for current hours/operations).",
+    "lat": 28.3578,
+    "lng": -80.7208
+  },
+  {
+    "name": "American Police Hall of Fame & Museum",
+    "type": "Museum",
+    "desc": "Interactive exhibits, police vehicles, and kids' play area.",
+    "lat": 28.5150,
+    "lng": -80.7987
+  },
+  {
+    "name": "Viera Regional Park",
+    "type": "Park",
+    "desc": "Large park with multiple playgrounds, athletic fields, and walking paths.",
+    "lat": 28.2411,
+    "lng": -80.7353
+  },
+  {
+    "name": "McLarty Park",
+    "type": "Park",
+    "desc": "Community park with playground, pool, tennis, and basketball courts in Rockledge.",
+    "lat": 28.3200,
+    "lng": -80.7323
+  },
+  {
+    "name": "Jungle Adventures",
+    "type": "Wildlife Park",
+    "desc": "See alligators, wildlife shows, and animal encounters. Fun for kids.",
+    "lat": 28.5022,
+    "lng": -81.0467
+  },
+  {
+    "name": "Samuel C. Phillips Park",
+    "type": "Park",
+    "desc": "Neighborhood park with a modern playground and sports fields.",
+    "lat": 28.3000,
+    "lng": -80.6705
+  },
+  {
+    "name": "Pumpkin Patch Playground at Rotary Park",
+    "type": "Playground",
+    "desc": "Themed, fenced playground for children in Suntree.",
+    "lat": 28.2334,
+    "lng": -80.7135
   }
 ]
