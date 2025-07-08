@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Central Park Playground",
+    "type": "Playground",
+    "desc": "Large accessible playground with splash pad and picnic area.",
+    "lat": 40.7711,
+    "lng": -73.9742
+  },
+  {
+    "name": "Golden Gate Park Carousel",
+    "type": "Amusement",
+    "desc": "Historic carousel open daily, fun for all ages.",
+    "lat": 37.7694,
+    "lng": -122.4862
+  },
+  {
+    "name": "Millennium Park",
+    "type": "Park",
+    "desc": "Famous park with Cloud Gate, splash fountains, and playground.",
+    "lat": 41.8827,
+    "lng": -87.6233
+  },
+  {
+    "name": "Zilker Park",
+    "type": "Park",
+    "desc": "Huge park, playgrounds, trains, botanical gardens, events.",
+    "lat": 30.2669,
+    "lng": -97.7728
+  },
+  {
+    "name": "Piedmont Park Splash Pad",
+    "type": "Playground",
+    "desc": "Water play, modern playground, picnic tables.",
+    "lat": 33.7851,
+    "lng": -84.3738
+  },
+  {
+    "name": "Discovery Green",
+    "type": "Park",
+    "desc": "Urban green space, playground, seasonal events, art.",
+    "lat": 29.7545,
+    "lng": -95.3598
+  },
+  {
+    "name": "Ann Arbor Hands-On Museum",
+    "type": "Museum",
+    "desc": "Interactive science and play for kids of all ages.",
+    "lat": 42.2814,
+    "lng": -83.7491
+  },
+  {
+    "name": "Orlando Science Center",
+    "type": "Museum",
+    "desc": "Hands-on exhibits, play areas, and live science shows.",
+    "lat": 28.5721,
+    "lng": -81.3681
+  },
+  {
+    "name": "Denver Children's Museum",
+    "type": "Museum",
+    "desc": "Indoor/outdoor play, water, art, STEM, and more.",
+    "lat": 39.7539,
+    "lng": -105.0196
+  },
+  {
+    "name": "Santa Monica Pier",
+    "type": "Amusement",
+    "desc": "Rides, arcade, aquarium, beach activities.",
+    "lat": 34.0094,
+    "lng": -118.4973
+  }
+]

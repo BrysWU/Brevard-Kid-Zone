@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Kids Services Map Finder</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css"/>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+</head>
+<body>
+  <header>
+    <h1>Find Kids Activities Near You</h1>
+    <p>Enter your ZIP code to find parks, playgrounds, fun events and more!</p>
+  </header>
+  <main>
+    <section id="search-section">
+      <input type="text" id="zip-input" maxlength="5" placeholder="Enter ZIP Code" />
+      <button id="search-btn">Search</button>
+      <span id="search-error"></span>
+    </section>
+    <section id="map-section">
+      <div id="map"></div>
+    </section>
+    <section id="results-section">
+      <h2>Nearby Kids Activities</h2>
+      <ul id="results-list"></ul>
+    </section>
+  </main>
+  <footer>
+    <small>
+      Map data &copy; <a href="https://openstreetmap.org" target="_blank">OpenStreetMap contributors</a> | Built with <a href="https://leafletjs.com/" target="_blank">Leaflet</a>
+    </small>
+  </footer>
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="main.js"></script>
+</body>
+</html>

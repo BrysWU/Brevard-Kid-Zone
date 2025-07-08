@@ -1,0 +1,12 @@
+{
+  "90210": {"lat":34.0901,"lng":-118.4065,"city":"Beverly Hills","state":"CA"},
+  "10001": {"lat":40.7506,"lng":-73.9972,"city":"New York","state":"NY"},
+  "60601": {"lat":41.8864,"lng":-87.6186,"city":"Chicago","state":"IL"},
+  "73301": {"lat":30.2669,"lng":-97.7428,"city":"Austin","state":"TX"},
+  "94103": {"lat":37.7725,"lng":-122.4091,"city":"San Francisco","state":"CA"},
+  "30309": {"lat":33.798,"lng":-84.3963,"city":"Atlanta","state":"GA"},
+  "48104": {"lat":42.2737,"lng":-83.7264,"city":"Ann Arbor","state":"MI"},
+  "02139": {"lat":42.3647,"lng":-71.1047,"city":"Cambridge","state":"MA"},
+  "32801": {"lat":28.5421,"lng":-81.379,"city":"Orlando","state":"FL"},
+  "80202": {"lat":39.7525,"lng":-104.9995,"city":"Denver","state":"CO"}
+}
